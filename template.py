@@ -27,9 +27,9 @@ stdstr =lambda: stdin.readline()
 stdint =lambda: int(stdin.readline())
 stdpr  =lambda x: stdout.write(str(x))
 
-
-
 mod=1000000007
 
 
 #main code
+
+
